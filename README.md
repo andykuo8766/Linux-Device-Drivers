@@ -4,6 +4,24 @@
 
 ## Ch1 An Introduction to Device Drivers
 
+### The Role of the Device Driver
+
+
+### Splitting the Kernel
+
+* Process management
+
+* Memory management
+
+* Filesystems
+
+* Device control
+
+* Networking
+
+#### Loadable Modules
+
+
 ### Classes of Devices and Modules
 ![](https://i.imgur.com/mbLZyAJ.png)
 
